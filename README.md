@@ -12,8 +12,10 @@
 
 ### 📊 My GitHub Stats 🌟
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="48%" />
+</div> 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false)
 
 ---
