@@ -20,7 +20,7 @@
 
 ### 🏆 My Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=fatiya17&theme=onedark&no-frame=false&margin-w=8&margin-h=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=fatiya17&theme=alduin&no-frame=false&margin-w=8&margin-h=8)
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 🍒 Pacman Contribution Graph
+### 🐛 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatiya17/fatiya17/output/pacman-contribution-graph-dark.svg">
