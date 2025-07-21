@@ -1,37 +1,17 @@
 # 👋 Hi, I'm Fatiya Labibah!
 
-👩🏻‍💻 Aspiring Software Developer passionate about web development and cloud computing<br/>
-🎓 Computer Science student (S1 Teknik Informatika) at STT Terpadu Nurul Fikri with GPA 3.99/4.00<br/>
-🚀 Building innovative web applications with modern technologies like React.js, TypeScript, and Laravel<br/>
-🌐 Portfolio: [fatiyapage.vercel.app](https://fatiyapage.vercel.app/)<br/>
-☁️ Exploring Cloud Computing with Microsoft Azure (Maps API, Blob Storage)<br/>
+🌸 Informatics Engineering student | Frontend & Cloud enthusiast
+
+🎓 Currently in my 5th semester at STT Terpadu Nurul Fikri  
+💡 Passionate about building intuitive, responsive, and impactful web applications  
+🌐 Exploring the world of Frontend Development, Cloud Computing, and UI/UX Design  
+🧠 Always learning something new, one commit at a time ✨  
+📍 Based in Kab. Bogor, Indonesia  
 💼 Open for internship opportunities as Junior Programmer, Frontend Engineer, or Software Developer<br/>
 
 <!-- GitHub stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatiya17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🚀 Featured Projects
-
-### 🌪️ Natural Disaster Reporting App (2023-2025)
-- Built responsive UI with **TypeScript** and **React.js**
-- Integrated **Azure Maps API** for real-time disaster location mapping
-- Implemented image upload functionality using **Azure Blob Storage**
-
-### 🍳 Recipe Website (2025)
-- Developed SPA using **React.js** with public API integration
-- Created dynamic search and filtering system
-- Designed reusable UI components for optimal user experience
-
-### 🏥 Healthcare Information System (2024)
-- Built comprehensive web system using **Laravel** and **MySQL**
-- Implemented multi-role authentication (admin, doctor, patient)
-- Designed efficient database schema with CRUD operations
-
-### 📊 BMI Calculator Website (2024)
-- Created responsive calculator using vanilla **JavaScript**, **HTML5**, **CSS3**
-- Implemented BMI formula with input validation
-- Applied responsive design principles for cross-device compatibility
 
 ## 💻 Tech Stack
 
@@ -70,20 +50,22 @@
 - **Dasar Pemrograman JavaScript** - Dicoding (2025)
 - **Pemrograman dengan Java** - Dicoding (2025)
 
-## 🌟 Key Strengths
-
-- **Self-Learning**: Quick adaptation to new technologies
-- **Mentoring**: Helping classmates with practicum and app development projects
-- **Project Management**: Managing projects from concept to implementation
-- **Problem Solving**: Analyzing and solving technical challenges
-- **Communication**: Explaining technical concepts in simple terms
-
 ## 📫 Let's Connect!
 
-- 📧 Email: [fatiyalabibah17@gmail.com](mailto:fatiyalabibah17@gmail.com)
-- 💬 WhatsApp: +6283877136044
-- 🌐 Portfolio: [fatiyapage.vercel.app](https://fatiyapage.vercel.app/)
-- 💼 Open for: **Fullstack Developer**, **Frontend Engineer**, **Junior Programmer**, **UI/UX Designer** positions
+<p align="left">
+  <a href="https://www.linkedin.com/in/fatiya-labibah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.notion.so/fatiya-labibah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/notion/default.svg" width="52" height="40" alt="notion logo" />
+  </a>
+  <a href="https://www.instagram.com/dambelsbru_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:fatiyalabibah17@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</p>
 
 ---
 
