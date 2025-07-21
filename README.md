@@ -1,28 +1,36 @@
-# 👋 Hi, I'm Fatiya Labibah!
+<h1 align="center">Hi there! I'm Fatiya Labibah 🐰💻</h1>
 
-🌸 Informatics Engineering student | Frontend & Cloud enthusiast  
-🎓 5th semester at STT Terpadu Nurul Fikri  
-💡 I love building intuitive, responsive, and impactful web applications  
-🌐 Passionate about Frontend Dev, Cloud Computing, and UI/UX Design  
-🧠 Always learning something new, one commit at a time ✨  
-📍 Based in Kab. Bogor, Indonesia  
-💼 Open for internship opportunities as Junior Programmer, Frontend Engineer, or Software Developer
+<p align="center">
+🌸 Informatics Engineering Student | Frontend & Cloud Enthusiast  
+🎀 Clean code lover | UI/UX enthusiast | Problem solver with pastel spirit  
+</p>
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 📈 GitHub Stats
+### 🌷 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact)
-![Streak Stats](https://streak-stats.demolab.com?user=fatiya17&theme=rose_pine&hide_border=false)
+- 🎓 5th semester at STT Terpadu Nurul Fikri  
+- 💡 Passionate about crafting clean, intuitive, and responsive web apps  
+- 🌐 Exploring Frontend Dev, Cloud Computing & UI/UX  
+- 🌻 Based in Kab. Bogor, Indonesia  
+- 🧸 Open for internship as Frontend Engineer, Junior Programmer, or UI Developer  
+- 🐣 Forever learning and growing – one commit at a time!
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 🧩 GitHub Trophy
+### 🦋 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false)
+
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
+
+### 🧁 GitHub Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fatiya17&theme=onedark&no-frame=false&margin-w=8&margin-h=8)
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
 ### 💻 Tech Stack
 
@@ -32,20 +40,20 @@
   </a>
 </p>
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 🏆 Certifications
+### 📚 Certifications
 
 - 🧠 **Dasar Artificial Intelligence** – Dicoding (2024)  
-- 🛠️ **Software Engineering Fundamental** – RevoU (2024)  
+- ✨ **Software Engineering Fundamental** – RevoU (2024)  
 - 💻 **Dasar Pemrograman JavaScript** – Dicoding (2025)  
 - ☕ **Pemrograman dengan Java** – Dicoding (2025)  
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 📫 Let's Connect!
+### 💌 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/fatiya-labibah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -60,9 +68,9 @@
   </a>
 </p>
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 🍒 Pacman Contribution Graph
+### 🍬 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatiya17/fatiya17/output/pacman-contribution-graph-dark.svg">
@@ -70,16 +78,15 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/fatiya17/fatiya17/output/pacman-contribution-graph.svg">
 </picture>
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-### 🎧 Spotify Activity
+### 🎧 Now Playing on Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jfrwee">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jfrwee&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
+<!-- Nonaktifkan bila belum setup -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317vvnpf2d2vywrr4h4lyzl7nuxm&unique=1)
 
----
+━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━
 
-> *"Committed to continuous learning and technical skill development in information technology."* ✨
+> ✨ *“Code like a creator, debug like a detective, and learn like a dreamer.”*  
+> 🌸 *Let’s build something beautiful together!*
+
