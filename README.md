@@ -12,10 +12,10 @@
 
 ### 🐾 My GitHub Stats 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" width="32%" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" width="100%" />
 </div>
 
 ---
@@ -38,10 +38,10 @@
 
 ### 🎀 Certifications
 
-- 🌸 **Dasar Artificial Intelligence** – Dicoding (2024)  
-- 💖 **Software Engineering Fundamental** – RevoU (2024)  
-- 🎀 **Dasar Pemrograman JavaScript** – Dicoding (2025)  
-- ☕ **Pemrograman dengan Java** – Dicoding (2025)  
+- **Dasar Artificial Intelligence** – Dicoding (2024)  
+- **Software Engineering Fundamental** – RevoU (2024)  
+- **Dasar Pemrograman JavaScript** – Dicoding (2025)  
+- **Pemrograman dengan Java** – Dicoding (2025)  
 
 ---
 
