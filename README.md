@@ -1,7 +1,7 @@
-# 🌸 Hi, I'm Fatiya Labibah!
+# 🌼 Hi, I'm Fatiya Labibah!
 
-🎀 Informatics Engineering student | Frontend & Cloud enthusiast  
-📚 5th semester at STT Terpadu Nurul Fikri  
+🌸 Informatics Engineering student | Frontend & Cloud enthusiast  
+🎓 5th semester at STT Terpadu Nurul Fikri  
 💡 I love building intuitive, responsive, and impactful web applications  
 ✨ Passionate about Frontend Dev, Cloud Computing, and UI/UX Design  
 🌱 Always learning something new, one commit at a time  
@@ -10,25 +10,25 @@
 
 ---
 
-### 📊 My GitHub Stats 🌟
+### 🐾 My GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="48%" />
-</div> 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" width="32%" />
+</div>
 
 ---
 
-### 🏆 My Achievements 🎖️
+### 🏆 My Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fatiya17&theme=onedark&no-frame=false&margin-w=8&margin-h=8)
 
 ---
 
-### 💻 Tech Stack I Love 🧁
+### 💕 Tech Stack I Love
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,react,laravel,nodejs,express,tailwind,figma,mysql,supabase,azure,git,github,vscode" />
   </a>
@@ -36,7 +36,7 @@
 
 ---
 
-### 🎓 Certifications 🌼
+### 🎀 Certifications
 
 - 🌸 **Dasar Artificial Intelligence** – Dicoding (2024)  
 - 💖 **Software Engineering Fundamental** – RevoU (2024)  
@@ -45,7 +45,7 @@
 
 ---
 
-### 📬 Let's Connect 🌸
+### 🌻 Let's Connect 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fatiya-labibah" target="_blank">
@@ -74,12 +74,12 @@
 
 ---
 
-### 🎧 Currently Listening 🎶
+### 🎧 Currently Listening
 
 <!-- Nonaktifkan jika belum setup Vercel -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317vvnpf2d2vywrr4h4lyzl7nuxm&unique=1)
 
 ---
 
-> 🌷 *"Committed to continuous learning and technical skill development in information technology."*  
-> ✨ *Let’s build something beautiful together.*
+> *"Committed to continuous learning and technical skill development in information technology."*  
+> *Let’s build something beautiful together.*
