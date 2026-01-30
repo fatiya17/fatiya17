@@ -22,7 +22,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,coudinary,mongodb,azure,gcp,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,mongodb,azure,gcp,git,github,vscode,postman" />
+    <img src="https://cdn.simpleicons.org/cloudinary" height="48" />
   </a>
 </p>
 
