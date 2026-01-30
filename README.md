@@ -9,7 +9,7 @@
 
 ---
 
-### My GitHub Stats 
+## My GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="41%" />
@@ -18,17 +18,17 @@
 
 ---
 
-### Tech Stack I Love
+## Tech Stack I Love
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,azure,gcp,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,coudinary,mongodb,azure,gcp,git,github,vscode,postman" />
   </a>
 </p>
 
 ---
 
-### 🎀 Certifications
+### Certifications
 
 - **Dasar Artificial Intelligence** – Dicoding (2024)  
 - **Software Engineering Fundamental** – RevoU (2024)  
