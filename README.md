@@ -1,4 +1,4 @@
-# 🌼 Hi, I'm Fatiya Labibah!
+# 🦉 Hi there, I'm Fatiya Labibah!
 
 🌸 Informatics Engineering student | Frontend & Cloud enthusiast  
 🎓 5th semester at STT Terpadu Nurul Fikri  
