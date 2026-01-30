@@ -9,11 +9,25 @@
 
 ---
 
-### 🐾 My GitHub Stats 
+### My GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="42%" />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" 
+    height="180"
+  />
+</p>
 
 ---
 
