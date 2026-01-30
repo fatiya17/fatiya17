@@ -1,12 +1,11 @@
 # 🦉 Hi there, I'm Fatiya Labibah!
 
-🌸 Informatics Engineering student | Frontend & Cloud enthusiast  
-🎓 5th semester at STT Terpadu Nurul Fikri  
-💡 I love building intuitive, responsive, and impactful web applications  
-✨ Passionate about Frontend Dev, Cloud Computing, and UI/UX Design  
-🌱 Always learning something new, one commit at a time  
-📍 Kab. Bogor, Indonesia  
-💼 Open for internship opportunities as Junior Programmer, Frontend Engineer, or Software Developer
+- 🌸 Informatics Engineering student | Software Engineering & Cloud enthusiast  
+- 🎓 Bachelor Degree at STT Terpadu Nurul Fikri  
+- 💡 I love building intuitive, responsive, and impactful web applications  
+- ✨ Passionate about Frontend Dev, Backend Dev, Cloud Computing, and UI/UX Design  
+- 🌱 Always learning something new, one commit at a time  
+- 💼 Open for internship opportunities as Junior Programmer, Mobile & Web Developer, or Software Developer
 
 ---
 
