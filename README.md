@@ -18,17 +18,11 @@
 
 ---
 
-### 🏆 My Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=fatiya17&theme=alduin&no-frame=false&margin-w=8&margin-h=8)
-
----
-
-### 💕 Tech Stack I Love
+### Tech Stack I Love
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,azure,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart,react,laravel,nodejs,express,flutter,tailwind,figma,mysql,supabase,azure,gcp,git,github,vscode,postman" />
   </a>
 </p>
 
