@@ -11,22 +11,10 @@
 
 ### My GitHub Stats 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=true&layout=compact&cache_seconds=86400"
-        height="165"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=true"
-        height="165"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" width="41%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" width="57%" />
+</p>
 
 ---
 
