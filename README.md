@@ -13,21 +13,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=fatiya17&theme=rose_pine&include_all_commits=true&cache_seconds=86400"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact"
+    style="max-width: 420px; width: 45vw;"
   />
-</p>
-
-<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiya17&theme=rose_pine&hide_border=false&layout=compact" 
-    height="165"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false" 
-    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatiya17&theme=rose_pine&hide_border=false"
+    style="max-width: 420px; width: 45vw;"
   />
 </p>
 
