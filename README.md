@@ -28,7 +28,7 @@
 
 ---
 
-### Certifications
+## Certifications
 
 - **Dasar Artificial Intelligence** – Dicoding (2024)  
 - **Software Engineering Fundamental** – RevoU (2024)  
@@ -37,7 +37,7 @@
 
 ---
 
-### 🌻 Let's Connect 
+## Let's Connect 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fatiya-labibah" target="_blank">
@@ -56,7 +56,7 @@
 
 ---
 
-### 🐛 Pacman Contribution Graph
+## 🐛 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatiya17/fatiya17/output/pacman-contribution-graph-dark.svg">
@@ -66,7 +66,7 @@
 
 ---
 
-### 🎧 Currently Listening
+## 🎵 Currently Listening
 
 <!-- Nonaktifkan jika belum setup Vercel -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317vvnpf2d2vywrr4h4lyzl7nuxm&unique=1)
