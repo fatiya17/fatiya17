@@ -72,7 +72,7 @@
 <p align="left">
   <img 
     src="https://spotify-recently-played-readme.vercel.app/api?user=317vvnpf2d2vywrr4h4lyzl7nuxm&unique=1"
-    width="550"
+    width="500"
   />
 </p>
 
