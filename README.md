@@ -1,3 +1,6 @@
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=fatiya17&=Profile%20Views&color=af73c3" />
+
 # 🦉 Hi there, I'm Fatiya Labibah!
 
 - 🌸 Informatics Engineering student | Software Engineering & Cloud enthusiast  
