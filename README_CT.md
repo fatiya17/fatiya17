@@ -55,17 +55,17 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 
 ##### FrontEnd  
 <p align="left">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,bootsrap,flutter,figma" alt="Frontend Skills"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,bootstrap,flutter" alt="Frontend Skills"/>
 </p>
 
 ##### Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,java,python,nodejs,express,laravel,prisma,mongodb,supabase,azure,gcp,docker,git,postman,postgresql,firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,nodejs,express,laravel,prisma,postgresql,mysql,mongodb,supabase" />
 </p>
 
 #####  Outils et Autres  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,cypress,jest,postman,figma,wordpress" alt="Tools and Others" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,postman,figma,github,gitlab,vscode,azure,gcp,firebase" alt="Tools and Others" />
 </p>
 
 ----
