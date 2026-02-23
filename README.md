@@ -19,7 +19,7 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 
 - 🔭 Je suis actuellement **ouverte aux opportunités**
 
-💬 N'hésitez pas à me parler de Développement **Front-End, Informatique, Open Source, Accessibilité Web et Développement mobile**
+- 💬 N'hésitez pas à me parler de Développement **Front-End, Informatique, Open Source, Accessibilité Web et Développement mobile**
 
 - 📫 Vous pouvez me contacter à **fatiyalabibah17@gmail.com**
 
