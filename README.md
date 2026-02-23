@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/a278433e-c404-4f99-a69a-c49de601ea80" alt="Cœur" style="width: 50px;">
-</p>
+</p> -->
 
 ```C
 printf("
@@ -8,7 +8,7 @@ printf("
 (,-.`._,'(       |\`-/|
     `-.-' \ )-`( , o o)
           `-    \`_`"'-  Bonjour, les humains!  \n);
-printf("Je m'appelle Larissa, mais vous pouvez aussi m'appeler Mewmew !\n");
+printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n");
 ```
 
 <p align="right">
@@ -19,11 +19,11 @@ printf("Je m'appelle Larissa, mais vous pouvez aussi m'appeler Mewmew !\n");
 
 - 🔭 Je suis actuellement **ouverte aux opportunités**
 
-- 💬 N'hésitez pas à me parler de **Front-End, Informatique, Open Source et Accessibilité Web**
+💬 N'hésitez pas à me parler de Développement **Front-End, Informatique, Open Source, Accessibilité Web et Développement mobile**
 
-- 📫 Vous pouvez me contacter à **mewmewdevart@gmail.com**
+- 📫 Vous pouvez me contacter à **fatiyalabibah17@gmail.com**
 
-- ☕ Oh, j’allais oublier, parlez-moi aussi des **chats roux**. 🐱🧡
+- ☕ Oh, j’allais oublier, parlez-moi aussi des **séries thriller, action et théories du complot**
 
 
 #### Projets Personnels /
