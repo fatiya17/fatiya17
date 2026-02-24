@@ -68,6 +68,13 @@ Todo List website developed during RevoU Coding Camp using fundamental front-end
   <img src="https://skillicons.dev/icons?i=docker,linux,postman,figma,github,gitlab,vscode,azure,gcp,firebase" alt="Tools and Others" />
 </p>
 
+#####  What’s playing right now? 
+<p align="left">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=317vvnpf2d2vywrr4h4lyzl7nuxm&unique=1"
+    width="400"
+  />
+</p>
 ----
 
 Portfolio IT : [https://fatiyalabibah.vercel.app/](https://fatiyalabibah.vercel.app/)  Projets Open Source : <sub> ♡ ♡ ♡ ♡ ♡</sub>
