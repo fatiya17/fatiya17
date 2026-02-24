@@ -28,11 +28,11 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 
 #### Projets Personnels /
 
-[<img align="left"  width="64px" style="margin-right: 40px" alt="Image du jeu So_long" src="https://user-images.githubusercontent.com/50052600/224555283-9b0d1dea-97f7-4f58-80fc-600bec04f4d5.gif"/>](https://github.com/mewmewdevart/so_long)
+<img align="left" width="64px" alt="wonder-logo" src="https://github.com/user-attachments/assets/0cd4e1e2-1889-4997-87e8-596cc2b58e4f" />
 
-**C, Shell et Makefile | Jeu 2D** \
-[**so_long**](https://github.com/mewmewdevart/so_long) • 2023 </br> Un mini-jeu développé en langage C, utilisant la bibliothèque graphique MiniLibX de l’école 42.
-
+**React, Google Fact Check API | Web Application** \
+[**WonderAI**](https://aiwonder.vercel.app) • 2025 </br>
+AI-powered web app that detects and classifies misinformation in news or text content.
 
 [<img align="left"  width="64px"  alt="Image d'une illustration CSS" src="https://github.com/user-attachments/assets/fefb9c7c-90e6-4c9b-acc4-942d1de1406e"/>](https://mewmewdevart.github.io/WebDevelopment4Fun/)
 
