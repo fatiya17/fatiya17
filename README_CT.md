@@ -28,7 +28,7 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 
 #### Projets Personnels /
 
-<img align="left" width="64px" alt="wonder-logo" src="https://github.com/user-attachments/assets/0cd4e1e2-1889-4997-87e8-596cc2b58e4f" />
+[<img align="left" width="64px" alt="wonder-logo" src="https://github.com/user-attachments/assets/0cd4e1e2-1889-4997-87e8-596cc2b58e4f" />](https://github.com/fatiya17/ai-misinformation-detector)
 
 **React, Google Fact Check API | Web Application** \
 [**WonderAI**](https://aiwonder.vercel.app) • 2025 </br>
