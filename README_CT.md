@@ -1,6 +1,7 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/a278433e-c404-4f99-a69a-c49de601ea80" alt="Cœur" style="width: 50px;">
 </p> -->
+<img align="right" src="https://komarev.com/ghpvc/?username=fatiya17&=Profile%20Views&color=af73c3" /> <br>
 
 ```C
 printf("
