@@ -40,11 +40,10 @@ AI-powered web app that detects and classifies misinformation in news or text co
 [**RevoU Coding Camp Project**](https://revou-coding-camp.github.io/codingcamp-21-jul-25-fatiya17/) • 2025 </br>
 Todo List website developed during RevoU Coding Camp using fundamental front-end technologies.
 
-[<img align="left"  width="64px"  alt="Image d'une illustration CSS" src="https://github.com/user-attachments/assets/19e041d3-3d95-40af-9ef8-696025abef47"/>](https://github.com/mewmewdevart/CSSDrawings4Fun)
+[<img align="left"  width="64px" alt="resepish_logo" src="https://github.com/user-attachments/assets/6da0ee7a-7ef4-4e43-af02-49a88dde339b" />](https://github.com/fatiya17/resepish/tree/main)
 
-**HTML et CSS | CSSDrawings4Fun** \
-[**CSSDrawings4Fun**](https://github.com/mewmewdevart/CSSDrawings4Fun) • 2023 - Actuellement </br> Apprentissage pratique du CSS en créant des illustrations visuelles avec du code.
-
+**React, Supabase | WebDevelopment** \
+[**Resepish**](https://github.com/mewmewdevart/CSSDrawings4Fun) • 2025 </br> Interactive web app for exploring and adding recipes across various categories.
 
 [<img align="left" width="64px"  alt="Logo de 42 Ecole" src="https://github.com/user-attachments/assets/a0e2d4fb-9b5f-4342-9799-78ca6aecff27"/>](https://github.com/mewmewdevart/42Projects)
 
