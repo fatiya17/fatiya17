@@ -34,7 +34,7 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 [**WonderAI**](https://aiwonder.vercel.app) • 2025 </br>
 AI-powered web app that detects and classifies misinformation in news or text content.
 
-<img align="left"  width="64px" alt="love" src="https://github.com/user-attachments/assets/6f49d43c-f186-42ab-bc44-faee50cf11b4" />
+[<img align="left"  width="64px" alt="love" src="https://github.com/user-attachments/assets/6f49d43c-f186-42ab-bc44-faee50cf11b4" />](https://github.com/fatiya17/codingcamp-21-jul-25-fatiya17)
 
 **HTML/CSS et JS | WebDevelopment** \
 [**RevoU Coding Camp Project**](https://revou-coding-camp.github.io/codingcamp-21-jul-25-fatiya17/) • 2025 </br>
