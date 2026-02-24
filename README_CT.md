@@ -34,11 +34,11 @@ printf("Je m'appelle Fatiya Labibah, mais vous pouvez aussi m'appeler Fatiya !\n
 [**WonderAI**](https://aiwonder.vercel.app) • 2025 </br>
 AI-powered web app that detects and classifies misinformation in news or text content.
 
-[<img align="left"  width="64px"  alt="Image d'une illustration CSS" src="https://github.com/user-attachments/assets/fefb9c7c-90e6-4c9b-acc4-942d1de1406e"/>](https://mewmewdevart.github.io/WebDevelopment4Fun/)
+<img align="left"  width="64px" alt="love" src="https://github.com/user-attachments/assets/6f49d43c-f186-42ab-bc44-faee50cf11b4" />
 
-**HTML/CSS et Frameworks | WebDevelopment4Fun** \
-[**WebDevelopment4Fun**](https://mewmewdevart.github.io/WebDevelopment4Fun/) • 2023 - Actuellement </br> Apprentissage du développement web par la pratique, en créant des interfaces amusantes.
-
+**HTML/CSS et JS | WebDevelopment** \
+[**RevoU Coding Camp Project**](https://revou-coding-camp.github.io/codingcamp-21-jul-25-fatiya17/) • 2025 </br>
+Todo List website developed during RevoU Coding Camp using fundamental front-end technologies.
 
 [<img align="left"  width="64px"  alt="Image d'une illustration CSS" src="https://github.com/user-attachments/assets/19e041d3-3d95-40af-9ef8-696025abef47"/>](https://github.com/mewmewdevart/CSSDrawings4Fun)
 
