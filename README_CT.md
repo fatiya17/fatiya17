@@ -46,11 +46,6 @@ Todo List website developed during RevoU Coding Camp using fundamental front-end
 **React, Supabase | WebDevelopment** \
 [**Resepish**](https://github.com/mewmewdevart/CSSDrawings4Fun) • 2025 </br> Interactive web app for exploring and adding recipes across various categories.
 
-[<img align="left" width="64px"  alt="Logo de 42 Ecole" src="https://github.com/user-attachments/assets/a0e2d4fb-9b5f-4342-9799-78ca6aecff27"/>](https://github.com/mewmewdevart/42Projects)
-
-**Algorithmes et IA, Administration Systèmes, Graphiques etc. | 42Projects** \
-[**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br> Projets réalisés à 42 São Paulo, une école de programmation.
-
 #### Compétences /
 
 ##### FrontEnd  
