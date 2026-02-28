@@ -62,3 +62,6 @@ Website daftar tugas yang dikembangkan selama RevoU Coding Camp menggunakan tekn
 
 ----
 Portofolio IT : [https://fatiyalabibah.vercel.app/](https://fatiyalabibah.vercel.app/)  Proyek Open Source : <sub> ♡ ♡ ♡ ♡ ♡</sub>
+<p align="right">
+  <sub>Credit README : <a href="https://github.com/mewmewdevart/mewmewdevart">@fatiya17</a></sub>
+</p>
