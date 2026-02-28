@@ -16,7 +16,7 @@ printf("My name is Fatiya Labibah, but you can also call me Fatiya!\n");
 
 #### Full Stack Developer with a Passion for Front-End /
 - 🔭 I am currently **open to opportunities**
-- 💬 Feel free to talk to me about **Front-End Development, Computer Science, Open Source, Web Accessibility and Mobile Development**
+- 💬 Feel free to talk to me about **Front-End Development, Open Source, Web Accessibility and Mobile Development**
 - 📫 You can reach me at **fatiyalabibah17@gmail.com**
 - ☕ Oh, I almost forgot, also talk to me about **thriller series, action and conspiracy theories**
 
