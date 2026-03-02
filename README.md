@@ -11,7 +11,7 @@ printf("
 printf("My name is Fatiya Labibah, but you can also call me Fatiya!\n");
 ```
 <p align="right">
- // Choose your preferred language : <a href="https://github.com/fatiya17/fatiya17/blob/main/README.md">🇺🇸</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_IDN.md">🇮🇩</a>
+ // Choose your preferred language : <a href="https://github.com/fatiya17">🇺🇸</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_IDN.md">🇮🇩</a>
 </p>
 
 #### Full Stack Developer with a Passion for Front-End /
