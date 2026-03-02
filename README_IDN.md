@@ -12,7 +12,7 @@ printf("Namaku Fatiya Labibah, tapi kamu juga bisa memanggilku Fatiya!\n");
 ```
 
 <p align="right">
- // Pilih bahasa pilihanmu : <a href="https://github.com/fatiya17/fatiya17/blob/main/README.md">🇺🇸</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_IDN.md">🇮🇩</a>
+ // Pilih bahasa pilihanmu : <a href="https://github.com/fatiya17">🇺🇸</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/fatiya17/fatiya17/blob/main/README_IDN.md">🇮🇩</a>
 </p>
 
 #### Pengembang Full Stack dengan Passion di Bidang Front-End /
