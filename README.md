@@ -35,6 +35,10 @@ Todo List website developed during RevoU Coding Camp using fundamental front-end
 **React, Supabase | WebDevelopment** \
 [**Resepish**](https://github.com/fatiya17/resepish) • 2025 </br> Interactive web app for exploring and adding recipes across various categories.
 
+[<img align="left" width="64" alt="sabooka" src="https://github.com/user-attachments/assets/bed529a4-0d46-4fca-aa75-893d527f3bf9" />](https://github.com/fatiya17/sabooka-bnsp)
+**React, Laravel | WebDevelopment** \
+[**Sabooka**](https://github.com/fatiya17/sabooka-bnsp) • 2026 </br> Bookstore platform designed to manage book catalogs and facilitate seamless online purchasing transactions.
+
 #### Skills /
 ##### FrontEnd  
 <p align="left">
