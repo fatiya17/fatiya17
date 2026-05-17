@@ -33,7 +33,7 @@ Todo List website developed during RevoU Coding Camp using fundamental front-end
 
 [<img align="left"  width="64px" alt="resepish_logo" src="https://github.com/user-attachments/assets/6da0ee7a-7ef4-4e43-af02-49a88dde339b" />](https://github.com/fatiya17/resepish/tree/main)
 **React, Supabase | WebDevelopment** \
-[**Resepish**](https://github.com/mewmewdevart/CSSDrawings4Fun) • 2025 </br> Interactive web app for exploring and adding recipes across various categories.
+[**Resepish**](https://github.com/fatiya17/resepish) • 2025 </br> Interactive web app for exploring and adding recipes across various categories.
 
 #### Skills /
 ##### FrontEnd  
