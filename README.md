@@ -42,13 +42,13 @@ Todo List website developed during RevoU Coding Camp using fundamental front-end
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="[https://github.com/user-attachments/assets/LOGO-BLACK](https://github.com/user-attachments/assets/084f3e0c-6866-4bb9-84bf-92976db7fbe9)"
+    srcset="https://github.com/user-attachments/assets/084f3e0c-6866-4bb9-84bf-92976db7fbe9"
   />
   <img
     align="left"
     width="64"
     alt="sabooka"
-    src="https://github.com/user-attachments/assets/LOGO-BLACK"
+    src="[https://github.com/user-attachments/assets/LOGO-BLACK](https://github.com/user-attachments/assets/084f3e0c-6866-4bb9-84bf-92976db7fbe9)"
   />
 </picture>
 
